@@ -1,4 +1,4 @@
-# 📊 Automação de Relatórios e Envio de E-mails ✉️
+# 📊 Automação de Relatórios e Envio de E-mails 
 
 Este projeto em **Python** automatiza a geração de relatórios de vendas individuais para cada vendedor e o envio desses relatórios diretamente por e-mail utilizando **Outlook**. Ele combina o uso das bibliotecas **openpyxl** para manipulação de planilhas Excel e **pywin32** para integração com o Outlook. 🚀
 
